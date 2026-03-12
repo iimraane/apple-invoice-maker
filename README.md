@@ -101,3 +101,4 @@ Le fichier HTML est déjà prêt dans `output/invoice.html`.
 - Ce projet est pour la **démo** (placeholder), pas pour un usage officiel.
 # apple-invoice-maker
 # apple-invoice-maker
+# apple-invoice-maker
