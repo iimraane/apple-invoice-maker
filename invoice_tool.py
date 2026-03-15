@@ -554,7 +554,6 @@ def render_invoice_html(payload: Dict[str, str]) -> str:
     <section class="foot">
       <p>You can turn off renewal receipts to stop getting emails each time your subscriptions renew.</p>
       <a class="cta" href="#">Turn Off Renewal Receipt Emails</a>
-      <p class="disclaimer">Document de démonstration uniquement. Sans valeur comptable ou légale.</p>
     </section>
   </main>
 </body>
